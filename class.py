@@ -108,13 +108,13 @@ if __name__ == "__main__":
 	# Settings to parse command line args
 	parser = optparse.OptionParser()
 	# Add receivers list flag
-	parser.add_option("--receivers", action="store", 
+	parser.add_option("-r", "--receivers", action="store", 
                   default="receivers.txt", 
                   dest="recs",
                   help="file containing newline separated recipient emails",
                   )
 	# Add course list flag
-	parser.add_option("--courses", action="store", 
+	parser.add_option("-c", "--courses", action="store", 
                   default="courses.txt", 
                   dest="courses",
                   help="file containing newline separated course names",
