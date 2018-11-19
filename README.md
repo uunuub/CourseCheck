@@ -1,4 +1,4 @@
-# course_check
+# Course Check
 Checks periodically for seat availability of courses.
 
 ## Running the script
