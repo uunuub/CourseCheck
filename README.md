@@ -26,7 +26,3 @@ Options:
 * Support for different interval 
 
 ### Long Term
-
-## Acknowledgments
-
-* Huge thank you to the reddit user who had shownn me the right libraries to uses
